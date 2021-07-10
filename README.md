@@ -1,4 +1,4 @@
-# Cypto-Analytics---Mobile-App-Development-
+# Cyptocurrency Analytics / Mobile-App-Development
 User inter face system designed for user to analyze in depth cryptocurrency to gain useful insights into the market.
 
 All the heavy lifting has been complete (CODE) allowing thes user to gain knowledge of this market.
