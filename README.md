@@ -5,9 +5,9 @@ All the heavy lifting has been complete (CODE) allowing thes user to gain knowle
 SImple instructions are included for this exciting project.
 
 The user interface system enables the user to take a look at specifc time frames of interest, specific cryptocurrencies using several graphics specifized for 
-cryptocurrenc analysis.
+gaining the best possible imsights required.
 
-Furthermore, the user can take a look at the autocorrelation function of a specific cyptocurrency & time frame.
+Furthermore, the user can take a look at the autocorrelation function of a specific cyptocurrency & time frame which is a useful tool for analysing trends and forecasting future movements in the market.
 
 
 
