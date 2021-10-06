@@ -10,5 +10,8 @@ gaining the best possible insights required.
 
 Furthermore, the user can take a look at the autocorrelation function of a specific cyptocurrency & time frame which is a useful tool for analysing trends and forecasting future movements in the market.
 
+NOTE
+Still in the development stages as the project continues to update and progress !
+
 
 
