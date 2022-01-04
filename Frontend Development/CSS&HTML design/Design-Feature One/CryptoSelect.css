@@ -1,0 +1,54 @@
+body {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(184, 65, 65, 0),
+    rgb(11, 230, 230)
+  );
+  padding-top: 15px;
+  font-family: "Trebuchet MS";
+  text-align: center;
+}
+h1 {
+  background-image: linear-gradient(
+    to right,
+    rgba(184, 65, 65, 0),
+    rgb(11, 230, 230)
+  );
+  font-size: 25px;
+  font-family: "Trebuchet MS";
+  color: black;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+#BOX-CONTROL {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(184, 65, 65, 0),
+    rgb(11, 230, 230)
+  );
+  margin-right: 10px;
+  margin-left: 120px;
+  margin-top: 10px;
+  margin-bottom: 80px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: centre;
+  border: 0px;
+}
+button {
+  font-size: 14px;
+  text-align: center;
+  padding: 5px;
+  border-radius: 10px;
+}
+#IMAGE {
+  opacity: 0.75;
+  margin-left: 75px;
+  margin-right: 100px;
+  margin-bottom: 75px;
+  margin-top: 10px;
+}
+hr {
+  border-style: none;
+}
